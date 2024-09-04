@@ -2,6 +2,8 @@
 
 This project was developed for a DevelopsToday technical challenge.
 
+https://github.com/user-attachments/assets/a892d390-ea23-42bf-82fe-5d48caea4778
+
 ## Technologies Used
 
 - **Next.js**: The React framework for the web.
